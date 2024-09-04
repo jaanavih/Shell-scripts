@@ -1,3 +1,0 @@
-And value: 0 
-Or value: 6 
-Xor value: 6 
