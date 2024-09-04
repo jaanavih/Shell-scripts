@@ -1,8 +1,0 @@
-jaanavih@Jaanavis-MacBook-Pro shell_scripts % ./file4.sh
-Enter a number: 5
-Enter another number: 10
-Maximum number: 10
-jaanavih@Jaanavis-MacBook-Pro shell_scripts % ./file4.sh
-Enter a number: 8
-Enter another number: 2
-Maximum number: 8
