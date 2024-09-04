@@ -1,3 +1,0 @@
-Sum: 8
-Difference: 2
-Difference: 5
