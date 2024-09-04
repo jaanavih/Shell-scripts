@@ -1,2 +1,0 @@
-op3.txt exists
-output3.txt does not exist
