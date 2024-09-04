@@ -1,5 +1,0 @@
-jaanavih@Jaanavis-MacBook-Pro shell_scripts % ./file8.sh A B
-Number of args: 2
-Name: ./file8.sh
-First parameter: A
-Second parameter: B
