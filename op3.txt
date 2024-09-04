@@ -1,6 +1,0 @@
-jaanavih@Jaanavis-MacBook-Pro shell_scripts % ./file3.sh
-Enter the first number:
-3
-Enter the second number:
-21
-Sum: 24
