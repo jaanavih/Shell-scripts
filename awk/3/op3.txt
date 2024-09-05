@@ -1,0 +1,12 @@
+Disk space information:
+Filesystem     512-blocks     Used Available Capacity iused      ifree %iused  Mounted on
+/dev/disk1s1s1  489825072 30116736 405452152     7%  502387 2027260760    0%   /
+devfs                 376      376         0   100%     652          0  100%   /dev
+/dev/disk1s5    489825072     2088 405452152     1%       1 2027260760    0%   /System/Volumes/VM
+/dev/disk1s3    489825072   529512 405452152     1%     775 2027260760    0%   /System/Volumes/Preboot
+/dev/disk1s6    489825072      760 405452152     1%       8 2027260760    0%   /System/Volumes/Update
+/dev/disk1s2    489825072 51260336 405452152    12%  412823 2027260760    0%   /System/Volumes/Data
+map auto_home           0        0         0   100%       0          0  100%   /System/Volumes/Data/home
+______________________________________________________________________________________________________
+Accessing information of particular disk using awk
+/dev/disk1s5    489825072     2088 405452152     1%       1 2027260760    0%   /System/Volumes/VM

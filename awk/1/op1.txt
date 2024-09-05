@@ -1,0 +1,15 @@
+Printing the first field using awk:
+PID
+3607
+4468
+4470
+Printing the second field using awk:
+TTY
+ttys000
+ttys000
+ttys000
+Printing all the fields using awk:
+  PID TTY           TIME CMD
+ 3607 ttys000    0:00.21 -zsh
+ 4468 ttys000    0:00.01 /bin/bash ./awk1.sh
+ 4474 ttys000    0:00.00 awk {print $0}

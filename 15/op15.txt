@@ -1,0 +1,2 @@
+Path: /Users/jaanavih/Documents/shell_scripts/15/file15.sh
+Filename: file15.sh
